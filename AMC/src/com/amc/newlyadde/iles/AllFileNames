@@ -1,0 +1,209 @@
+###################################
+2018 newly added files
+###################################
+
+
+
+AMCInvalidSearchesReportCronjob.java    2018\18jan2018\todeploy\newfiles
+AMCSendEmailService.java                2018\18jan2018\todeploy\newfiles
+AMCSendEmailServiceImpl.java            2018\18jan2018\todeploy\newfiles   A1
+InvalidSearchedKeywordsFacade.java      2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsFacadeImpl.java  2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsService.java     2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsServiceImpl.java 2018\18jan2018\todeploy\newfiles
+InvalidSearchesDao.java                 2018\18jan2018\todeploy\newfiles
+InvalidSearchesDaoImpl.java             2018\18jan2018\todeploy\newfiles
+poi-ooxml-3.11.jar                      2018\18jan2018\todeploy\newfiles
+
+allowCookies.js                        2018\27May2018\todeploy
+amccoreserver.jar                      2018\27May2018\todeploy
+
+AMCSendEmailServiceImpl.java           28jan2018\todeploy                 A2
+
+
+
+###################################
+2016 newly added files
+###################################
+
+2SIDED.impex                                  2016\15nov2016\todeploy
+
+###################################
+2017 newly added files
+###################################
+
+spring-cms-config.xml                    2017\10May2017\todeploy
+
+javax.json-api-1.0.jar                   2017\21mar2017\todeploy
+
+online_quickQuote-en.impex               2017\22May2017\todeploy
+quickQuote-en.impex                      2017\22May2017\todeploy
+spring-security-config.xml               2017\22May2017\todeploy
+staged_quickQuote-en .impex              2017\22May2017\todeploy
+
+AMCDownloadAllDocumentsCronjob.java      2017\31stJuly2017\todeploy
+local.properties                         2017\31stJuly2017\todeploy     H1
+     
+
+
+
+###################################
+2016 changed files
+###################################
+
+
+AbstractController.java                    2016\1dec2016\todeploy
+header.tag                                 2016\1dec2016\todeploy            B1
+
+localhostingdev.properties                 2016\2NoV2016
+localhostingProduction.properties          2016\2NoV2016                    C1
+localhostingStaging.properties             2016\2NoV2016                    D1
+
+cartPage.jsp                               2016\8dec2016\todeploy           E1
+
+checkAvailabilityPopup.jsp                 2016\8nov2016\todeploy           F1
+productDetailsJavascript.tag               2016\8nov2016\todeploy          G1
+
+productDetailsJavascript.tag               2016\10nov2016\todeploy          G2
+
+8K Earnings Release 9-30-16 and EX 99.pdf                   2016\15nov2016\todeploy
+A. M. CASTLE & CO. REPORTS THIRD QUARTER 2016 RESULTS.pdf   2016\15nov2016\todeploy
+CAS - 8-K Earnings Release September 30, 2016.pdf           2016\15nov2016\todeploy
+CAS - EX 99.1 - 09.30.16 FINAL.pdf                          2016\15nov2016\todeploy
+Press Release.2016-11-04.pdf                                2016\15nov2016\todeploy
+
+
+local.properties                         2016\21nov2016\todeploy           H2
+
+cartPage.jsp                             2016\22nov2016\todeploy          E2
+DefaultAMCCartFacade.java                2016\22nov2016\todeploy          I1
+header.tag                               2016\22nov2016\todeploy          B2
+
+DefaultAMCCartFacade.java                2016\28nov2016\todeploy          I2
+
+
+
+
+###################
+2017 changed files
+###################
+
+
+cartPage.jsp              2017\1march2017\todeploy               E3
+
+base_en.properties        2017\03May2017\todeploy                J1
+
+base_en.properties        2017\04May2017\todeploy                J2
+
+ContactUsPageController.java   2017\05Apr2017\todeploy
+javax.json-1.0.jar             2017\05Apr2017\todeploy
+VerifyRecaptcha.java           2017\05Apr2017\todeploy           K1
+
+base_en.properties            2017\05May2017\todeploy           J3
+
+DefaultAutoLoginStrategy.java  2017\07dec2017\todeploy          L1
+SearchPageController.java      2017\07dec2017\todeploy          M1
+
+AccountPageController.java     2017\08May2017\todeploy          N1
+
+AccountPageController.java     2017\09May2017\todeploy          N2
+
+VerifyRecaptcha.java           2017\10Apr2017\todeploy         K2
+
+VerifyRecaptcha.java           2017\13Apr2017\todeploy          K3
+
+project.properties             2017\14Apr2017\todeploy 
+VerifyRecaptcha.java           2017\14Apr2017\todeploy          K4
+
+cartPage.jsp                   2017\14feb2017\todeploy          E4
+
+cartPage.jsp                   2017\17feb2017\todeploy          E5
+CMSLinkComponentRenderer       2017\17feb2017\todeploy
+
+
+productDetailsJavascript.tag    2017\18Apr2017\todeploy        G3
+
+checkAvailabilityPopup.jsp     2017\20Apr2017\todeploy          F2
+Stock_Check_Popup.css          2017\20Apr2017\todeploy
+
+VerifyRecaptcha.java           2017\21Apr2017\todeploy          K5
+
+
+.classpath                     2017\21mar2017\todeploy
+AMCUtil.java                   2017\21mar2017\todeploy           O1
+base.properties                2017\21mar2017\todeploy           P1
+StoreLocatorPageController.java 2017\21mar2017\todeploy          Q1
+storeSearch.tag                2017\21mar2017\todeploy           R1
+VerifyRecaptcha.java           2017\21mar2017\todeploy          k5
+web.xml                        2017\21mar2017\todeploy
+
+header.tag                     2017\22Sep2017\todeploy          B3
+
+DefaultAMCCartFacade.java      2017\23mar2017\todeploy          I3
+ProductPageController.java     2017\23mar2017\todeploy          S1
+
+AddToCartController.java       2017\25mar2017\todeploy
+AMCUtil.java                   2017\25mar2017\todeploy         O2
+ProductPageController.java     2017\25mar2017\todeploy        S2
+StoreLocatorPageController.java  2017\25mar2017\todeploy      Q2
+storeSearch.tag                2017\25mar2017\todeploy        R2
+
+amccertificationscomponent.jsp  2017\26July2017\todeploy
+bannercomponent.jsp            2017\26July2017\todeploy
+secfilingscomponent.jsp        2017\26July2017\todeploy
+
+
+base_en.properties            2017\27Apr2017\todeploy          J4
+productDetailsJavascript.tag   2017\27Apr2017\todeploy          G4
+
+
+amccore-items.xml            2017\31stJuly2017\todeploy      T1
+amccore-spring.xml           2017\31stJuly2017\todeploy
+
+
+
+2018 chaged files
+############################################
+AMCUtil.class                                      2018\06Sept2018\todeploy      O3
+base.properties                                    2018\06Sept2018\todeploy       P2
+base_en.properties                                 2018\06Sept2018\todeploy         J5
+
+
+AMCUtil.class                                      2018\13July2018\todeploy        O4
+base.properties                                    2018\13July2018\todeploy         P3
+
+images                                             2018\13June2018\todeploy  
+
+amccore-items.xml                                  2018\18jan2018\todeploy         T2
+amcfacades-spring.xml                              2018\18jan2018\todeploy
+DefaultAutoLoginStrategy.java                      2018\18jan2018\todeploy             L2
+local.properties                                   2018\18jan2018\todeploy             H3
+SearchPageController.java                          18jan2018\todeploy                  M2
+
+AMCUtil.java                                       2018\27May2018\todeploy           O5
+GeoLocateStore.java                                2018\27May2018\todeploy
+googleAnalytics.tag                                2018\27May2018\todeploy
+HomePageController.java                            2018\27May2018\todeploy
+master.tag                                         2018\27May2018\todeploy          U1
+
+amccore-items.xml                                  2018\28jan2018\todeploy              T3
+local.properties                                   2018\28jan2018\todeploy             H4
+
+master.tag                                         2018\10Oct2018\toDeploy          U2
+
+################
+no date files  
+#############
+
+localhostingProduction.properties                  C2
+localhostingStaging.properties                     D2
+server.xml
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+###################################
+2018 newly added files
+###################################
+
+
+
+AMCInvalidSearchesReportCronjob.java    2018\18jan2018\todeploy\newfiles
+AMCSendEmailService.java                2018\18jan2018\todeploy\newfiles
+AMCSendEmailServiceImpl.java            2018\18jan2018\todeploy\newfiles   R
+InvalidSearchedKeywordsFacade.java      2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsFacadeImpl.java  2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsService.java     2018\18jan2018\todeploy\newfiles
+InvalidSearchedKeywordsServiceImpl.java 2018\18jan2018\todeploy\newfiles
+InvalidSearchesDao.java                 2018\18jan2018\todeploy\newfiles
+InvalidSearchesDaoImpl.java             2018\18jan2018\todeploy\newfiles
+poi-ooxml-3.11.jar                      2018\18jan2018\todeploy\newfiles
+
+allowCookies.js                        2018\27May2018\todeploy
+amccoreserver.jar                      2018\27May2018\todeploy
+
+AMCSendEmailServiceImpl.java           28jan2018\todeploy               R
+
+
+
+###################################
+2016 newly added files
+###################################
+
+2SIDED.impex                                  2016\15nov2016\todeploy
+
+###################################
+2017 newly added files
+###################################
+
+spring-cms-config.xml                    2017\10May2017\todeploy
+
+javax.json-api-1.0.jar                   2017\21mar2017\todeploy
+
+online_quickQuote-en.impex               2017\22May2017\todeploy
+quickQuote-en.impex                      2017\22May2017\todeploy
+spring-security-config.xml               2017\22May2017\todeploy
+staged_quickQuote-en .impex              2017\22May2017\todeploy
+
+AMCDownloadAllDocumentsCronjob.java      2017\31stJuly2017\todeploy
+
+     
+
+
+
+
+
